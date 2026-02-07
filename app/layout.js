@@ -20,7 +20,7 @@ config.autoAddCss = false;
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "kevin zhu",
+  title: "Kevin Zhu",
   description: "My Website",
   icons: {
     icon: "/favicon.ico",
@@ -38,7 +38,7 @@ export default function RootLayout({ children }) {
               <NavLink href="/">home</NavLink>
               <NavLink href="/work">work</NavLink>
               <NavLink href="/projects">projects</NavLink>
-              <NavLink href="/blog">blog</NavLink>
+              <NavLink href="/blog" className="opacity-0">blog</NavLink>
             </div>
             <ThemeToggle />
           </nav>

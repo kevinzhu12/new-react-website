@@ -60,7 +60,7 @@ export default function Projects() {
                 Rodriguez, Scale Red Team, Christina Q. Knight, Zifan Wang.
               </h3>
               <p className="text-sm text-[#1A1A1A] dark:text-white mt-1">
-                International Conference on Learning Representations (ICLR), 2026
+                International Conference on Learning Representations (ICLR), 2026 (Oral)
               </p>
             </div>
           </div>
